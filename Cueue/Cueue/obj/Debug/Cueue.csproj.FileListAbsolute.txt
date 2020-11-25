@@ -1,0 +1,7 @@
+C:\Users\Пользователь\source\repos\Cueue\Cueue\bin\Debug\Cueue.exe.config
+C:\Users\Пользователь\source\repos\Cueue\Cueue\bin\Debug\Cueue.exe
+C:\Users\Пользователь\source\repos\Cueue\Cueue\bin\Debug\Cueue.pdb
+C:\Users\Пользователь\source\repos\Cueue\Cueue\obj\Debug\Cueue.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\Cueue\Cueue\obj\Debug\Cueue.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Cueue\Cueue\obj\Debug\Cueue.exe
+C:\Users\Пользователь\source\repos\Cueue\Cueue\obj\Debug\Cueue.pdb

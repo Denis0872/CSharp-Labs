@@ -39,6 +39,8 @@ namespace Collections
             Console.WriteLine(person.Name);
 
             Console.ReadLine();
+            
+            
         }
     }
 

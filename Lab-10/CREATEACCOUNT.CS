@@ -7,7 +7,7 @@ class CreateAccount
 
     static void Main() 
     {
-		new BankTransaction(0.0M);
+
 		Console.WriteLine("Аккаунт Сида");
 		long sidsAccNo = Bank.CreateAccount();
 		BankAccount sids = Bank.GetAccount(sidsAccNo);

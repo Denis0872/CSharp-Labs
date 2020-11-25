@@ -1,7 +1,10 @@
 
-public enum AccountType 
+namespace Banking
 { 
-    Checking, 
-    Deposit 
-}
+    public enum AccountType 
+    { 
+        Checking, 
+        Deposit 
+    }
 
+}

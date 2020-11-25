@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace Lab9
 {
@@ -14,7 +15,7 @@ namespace Lab9
             {
                 InnerMain(args);
             }
-            catch (System.Exception caught)
+            catch (Exception caught)
             {
                 Console.WriteLine(caught);
             }
